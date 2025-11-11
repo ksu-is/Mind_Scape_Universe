@@ -1,1 +1,3 @@
 - [x] Create title for website
+- [ ] Create discription for website
+- [ ] create read.me
