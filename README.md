@@ -117,12 +117,13 @@ Includes:
 
 Made with ❤️ by Jayanth R Sidlyali — a passionate Pythonista helping students use data to grow smarter.
 
-Added edited parts by Emanuel Vega
+Added edited parts by Emanuel Vega.
 
 ---
 
 ## 📜 License
 
 This project is licensed under the MIT License.
+
 
 
