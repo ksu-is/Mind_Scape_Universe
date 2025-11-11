@@ -1,1 +1,1 @@
-1 - [x] Create title for website
+- [x] Create title for website
